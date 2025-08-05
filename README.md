@@ -18,7 +18,8 @@ This project is a simple **Online Reservation System** developed using **Java** 
 
 Here's a preview of the running application in VS Code:
 
-![Screenshot](Screenshot%20(27).png)
+<img width="1920" height="1080" alt="Screenshot (28)" src="https://github.com/user-attachments/assets/cd08b4a1-28d9-413f-a909-b31acbebeb91" />
+
 
 ## 📁 Project Files
 
